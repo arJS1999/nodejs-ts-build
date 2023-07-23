@@ -1,0 +1,21 @@
+{
+  "name": "demodata_publish",
+  "version": "1.0.2",
+  "description": "sample contract",
+  "main": "dist/index.js",
+  "scripts": {
+    "start":"node src/index.js",
+    "build":"parcel build src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Blockchain",
+    "contract"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type":"git",
+    "url":"git+https://github.com/rahuman1999/sample_npm.git"
+  }
+}

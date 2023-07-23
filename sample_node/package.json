@@ -1,0 +1,20 @@
+{
+  "name": "sample_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.7.16",
+    "nodedata_publish": "^1.0.14",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
